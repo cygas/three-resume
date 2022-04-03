@@ -4,7 +4,7 @@ export const Resume = () => {
   return (
     <main>
       <header>
-        <h1>Jeff Delaney</h1>
+        <h1>Mariusz Cygas</h1>
         <p>🚀 Welcome to my website!</p>
       </header>
 
