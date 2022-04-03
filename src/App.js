@@ -1,11 +1,11 @@
-import './App.css';
+import { Resume } from "./components/Resume";
+import { Playground } from "./components/Playground";
 
-function App() {
+export const App = () => {
   return (
-    <div className="App">
-      Cygas
-    </div>
+    <>
+      <Playground />
+      <Resume />
+    </>
   );
-}
-
-export default App;
+};
